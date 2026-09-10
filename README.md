@@ -4,11 +4,11 @@ A modern, responsive food subscription system for messes and canteens. Built wit
 
 ## Features
 
-- 🌓 **Dark Mode**: Sleek dark and light themes with system preference detection.
-- 🍱 **Subscription Plans**: Multiple meal plans (Breakfast, Lunch, Dinner, Full Day).
-- 📋 **Student Portal**: Dashboard to view subscription details and mark daily attendance.
-- 💾 **Dual Storage**: Automatically falls back to a local JSON file if MongoDB Atlas is unavailable.
-- 🔒 **Secure**: Environment variable configuration and protected server files.
+- **Dark Mode**: Sleek dark and light themes with system preference detection.
+- **Subscription Plans**: Multiple meal plans (Breakfast, Lunch, Dinner, Full Day).
+-  **Student Portal**: Dashboard to view subscription details and mark daily attendance.
+-  **Dual Storage**: Automatically falls back to a local JSON file if MongoDB Atlas is unavailable.
+-  **Secure**: Environment variable configuration and protected server files.
 
 ## Prerequisites
 
